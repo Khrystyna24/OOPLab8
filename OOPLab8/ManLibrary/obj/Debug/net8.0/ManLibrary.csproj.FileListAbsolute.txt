@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Education\OOP\OOPLab8\ManLibrary\bin\Debug\net8.0\ManLibrary.deps.json
+C:\Users\Admin\Desktop\Education\OOP\OOPLab8\ManLibrary\bin\Debug\net8.0\ManLibrary.dll
+C:\Users\Admin\Desktop\Education\OOP\OOPLab8\ManLibrary\bin\Debug\net8.0\ManLibrary.pdb
+C:\Users\Admin\Desktop\Education\OOP\OOPLab8\ManLibrary\obj\Debug\net8.0\ManLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Education\OOP\OOPLab8\ManLibrary\obj\Debug\net8.0\ManLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Education\OOP\OOPLab8\ManLibrary\obj\Debug\net8.0\ManLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Education\OOP\OOPLab8\ManLibrary\obj\Debug\net8.0\ManLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Education\OOP\OOPLab8\ManLibrary\obj\Debug\net8.0\ManLibrary.dll
+C:\Users\Admin\Desktop\Education\OOP\OOPLab8\ManLibrary\obj\Debug\net8.0\refint\ManLibrary.dll
+C:\Users\Admin\Desktop\Education\OOP\OOPLab8\ManLibrary\obj\Debug\net8.0\ManLibrary.pdb
+C:\Users\Admin\Desktop\Education\OOP\OOPLab8\ManLibrary\obj\Debug\net8.0\ref\ManLibrary.dll
